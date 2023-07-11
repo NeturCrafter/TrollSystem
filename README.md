@@ -1,5 +1,1 @@
-
-
 # TrollSystem
-
-#TROLLLING HAHAHA
