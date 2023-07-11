@@ -1,0 +1,11 @@
+name: "TrollSystem"
+version: "1.0.0"
+api: "5.0.0"
+author: "NeturCrafter"
+main: NeturCrafter\TrollSystem\Main
+description: "Basic TrollSystem made for PocketMine-MP by NeturCrafter"
+website: "https://github.com/NeturCrafter"
+
+permissions:
+  troll.command:
+    default: op
